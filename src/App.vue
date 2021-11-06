@@ -50,7 +50,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">Link to my Github:
-    <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+    <a href="https://github.com/adamtrueblue/cp3"> My Github</a>
   </div>
   <!-- Copyright -->
 
